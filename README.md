@@ -118,18 +118,6 @@ You can view the live preview of the project [here](https://code-sync-live.verce
    http://localhost:5173/
    ```
 
-## 🔮 Features for Next Release
-
-- **Admin Permission:** Implement an admin permission system to manage user access levels and control over certain platform features.
-
-## 🤝 Contribute
-
-We welcome contributions to make Code Sync even better! Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
-
-## 🌟 Support Us
-
-If you find this helpful or valuable, please consider 🌟 starring the repository. It helps us gain visibility and encourages further development.
-
 ## 🧾 License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -150,28 +138,3 @@ Special thanks to:
 - Pollinations AI:
   - [Pollinations Repository](https://github.com/pollinations/pollinations)
   - [Pollinations Docs](https://pollinations.ai/)
-
-## ✍️ About Developer
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github.com/sahilatahar.png" width="120px;" alt="Sahil Atahar"/>
-        <br />
-        <b>Sahil Atahar</b>
-      </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/sahilatahar">
-            <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <br/>
-            <a href="https://linkedin.com/in/sahilatahar">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-            </a>
-        </td>
-    </tr>
-  </tbody>
-</table>
