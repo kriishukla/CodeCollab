@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  server:
+    container_name: codecollab-server
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+      target: runner
+    ports:
+      - "3000:3000"
+    networks:
+      - CodeCollab
+
+  client:
+    container_name: codecollab-client
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+      target: runner
+    ports:
+      - "5174:5173"  # Avoid conflict
+    depends_on:
+      - server
+    networks:
+      - CodeCollab
+
+networks:
+  CodeCollab:
+    driver: bridge
