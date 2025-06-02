@@ -79,8 +79,7 @@ You can view the live preview of the project [here](https://codecollab-eftl.onre
    ```bash
    http://localhost:5173/
    ```
-### 🎥 Need help with the setup?
-👉 Watch [this video](https://youtu.be/zVHwOmU0aqo) for a step-by-step guide.
+
 ### Method 2: Docker Installation
 
 1. **Install Docker Desktop:**
